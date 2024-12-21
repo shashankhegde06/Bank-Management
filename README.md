@@ -36,12 +36,12 @@ To run the Bank Management System locally, you will need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mohammed-eid35/bank-management-system-springboot.git
+   git clone [https://github.com/shashankhegde06/Bank-Management.git]
    ```
 2. Edit the database configurations in the `application.properties` file.
 3. Navigate to the project directory:
    ```bash
-   cd bank-management-system-springboot
+   cd bank-management
    ```
 4. Build and run the application using Maven:
    ```bash
